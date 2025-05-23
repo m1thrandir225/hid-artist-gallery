@@ -1,6 +1,6 @@
 from django.contrib import admin
 from datetime import datetime
-from .models import *
+from .models import Artist, ArtPiece, Exhibition
 
 
 # Register your models here.
